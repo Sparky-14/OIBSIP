@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+main {
+    background-color: lightblue;
+}
+  
+#title {
+    background-color: lightgoldenrodyellow;
+    color: red;
+    text-align: centre;
+    font-size: 32px;
+    font-style: oblique;
+    font-family: "Franklin Goyhin";
+}
+  
+#img-div {
+    width: 540px;
+    height: 540;
+    margin: 0 auto;
+}
+  
+#image {
+    max-width: 100%;
+    height: auto;
+  }
